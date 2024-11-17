@@ -52,7 +52,7 @@ Goal: Explore possible story beginnings and events in your story.
 
  ```
   Please, suggest 3-4 possible story beginnings. For each suggestion, please include:
- - Immediate consequences
+   - Immediate consequences
    - Long-term implications
    - Character reactions
    - Potential subplot opportunities
