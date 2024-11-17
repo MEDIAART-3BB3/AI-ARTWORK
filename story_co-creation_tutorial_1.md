@@ -5,7 +5,7 @@ Create a compelling first act of a story through visual inspiration and AI colla
 
 ### Phase 1: Visual Inspiration & Initial Ideas (20 mins)
 1. **Prepare Visual Prompts**
-   - Select 3-4 diverse images that contain some of the following:
+   - Select 3-4 diverse images that contain:
      - Interesting characters or figures
      - Unique environments or settings
      - Memorable objects or artifacts
@@ -29,21 +29,36 @@ Create a compelling first act of a story through visual inspiration and AI colla
        - Feasibility for development
      - Choose one concept to develop further
 
-### Phase 2: World-Building (25 mins)
-1. **Establish the "Normal World"**
-   - Define 3 key aspects of your protagonist's daily life
-   - Ask ChatGPT to suggest common challenges in this world
+# Phase 2: Collaborative World-Building
+**Duration**: 45-60 minutes
 
-2. **Deepen the Setting**
-   ```
-   What underlying tensions or conflicts exist in this world
-   that could affect our protagonist's journey?
-   ```
+1. **Establish Foundation**
+  - Share your chosen concept with ChatGPT
+  - Provide initial world elements:
+    - Time period/era
+    - Geographic location
+    - Social/cultural context
+    - Key rules or limitations of the world
 
-3. **Document Critical Elements**
-   - Character's routine/status quo
-   - World rules/limitations
-   - Existing conflicts
+2. **Iterative Development**
+  - Engage in a Q&A session with ChatGPT:
+    ```
+    Please ask me 3-4 specific questions about [aspect of the world] 
+    that would help you understand and expand this story's setting.
+    ```
+  - Aspects to explore:
+    - Cultural practices
+    - Technology or magic systems
+    - Social structures
+    - Historical events
+    - Environmental features
+
+3. **Document Development**
+  - Keep a running document of:
+    - Established facts
+    - Open questions
+    - Potential conflicts
+    - Interesting details for later use
 
 ### Phase 3: Design the Inciting Incident (25 mins)
 1. **Create the "What If" Moment**
