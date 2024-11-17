@@ -43,13 +43,6 @@ Goals: Establish the foundations of your story, for example, the time/era, the g
     Ask me one question at a time.
     ```
 
-3. **Document Development**
-  - Keep a running document of:
-    - Established facts
-    - Open questions
-    - Potential conflicts
-    - Interesting details for later use
-
 ### Phase 3: Design the Inciting Incident (25 mins)
 1. **Create the "What If" Moment**
    ```
