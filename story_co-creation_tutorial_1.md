@@ -1,7 +1,7 @@
 # Co-Creating Act 1 with ChatGPT
 
 ### Workshop Goal
-Create a compelling first act of a story through visual inspiration and AI collaboration.
+Create a compelling story's first act through visual inspiration and AI collaboration.
 
 ### Phase 1: Visual Inspiration & Initial Ideas (20 mins)
 1. **Prepare Visual Prompts**
@@ -14,7 +14,7 @@ Create a compelling first act of a story through visual inspiration and AI colla
 2. **Generate Story Seeds**
 - Share your images with ChatGPT using this prompt template:
   ```
-  I'd like to create a story inspired by these images. Based on the elements in each image,
+  I want to create a story inspired by these images. Based on the elements in each image,
   can you propose 3-5 different story concepts?
   For each concept, please include:
   - A working title
@@ -32,26 +32,14 @@ Create a compelling first act of a story through visual inspiration and AI colla
 # Phase 2: Collaborative World-Building
 **Duration**: 45-60 minutes
 
-1. **Establish Foundation**
-  - Share your chosen concept with ChatGPT
-  - Provide initial world elements:
-    - Time period/era
-    - Geographic location
-    - Social/cultural context
-    - Key rules or limitations of the world
+Goals: In this step, you will establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
 
-2. **Iterative Development**
-  - Engage in a Q&A session with ChatGPT:
+1. **Iterative Development**
+
+  - Use the following prompt template to tell ChatGPT which concept you selected and engage in a Q&A session with ChatGPT:
     ```
-    Please ask me 3-4 specific questions about [aspect of the world] 
-    that would help you understand and expand this story's setting.
+    I select the story concept [replace with your concept number]. Please ask me 3-4 specific questions to help you create the story's setting. Ask me one question at a time.
     ```
-  - Aspects to explore:
-    - Cultural practices
-    - Technology or magic systems
-    - Social structures
-    - Historical events
-    - Environmental features
 
 3. **Document Development**
   - Keep a running document of:
