@@ -77,5 +77,6 @@ Goal: Explore possible story beginnings and events in your story.
     Please generate a draft of Act 1 to see how the story is coming together.
     The act structure should start with an opening scene in the story's setting and end with the
     protagonist's first major decision.
+    Write it in prose.
     ```
 
