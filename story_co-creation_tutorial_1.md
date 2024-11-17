@@ -22,12 +22,12 @@ Create a compelling first act of a story through visual inspiration and AI colla
   - The main conflict or challenge
   ```
 
-  3. **Review and Select**
-     - Evaluate each proposal based on:
-       - Personal connection to the concept
-       - Creative potential
-       - Feasibility for development
-     - Choose one concept to develop further
+3. **Review and Select**
+  - Evaluate each proposal based on:
+    - Personal connection to the concept
+    - Creative potential
+    - Feasibility for development
+  - Choose one concept to develop further
 
 # Phase 2: Collaborative World-Building
 **Duration**: 45-60 minutes
