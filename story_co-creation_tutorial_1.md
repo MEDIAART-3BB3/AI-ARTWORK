@@ -3,7 +3,7 @@
 ### Workshop Goal
 Create a compelling story's first act through visual inspiration and AI collaboration.
 
-### Phase 1: Visual Inspiration & Initial Ideas (20 mins)
+## Phase 1: Visual Inspiration & Initial Ideas (20 mins)
 1. **Prepare Visual Prompts**
    - Select 3-4 diverse images that contain:
      - Interesting characters or figures
@@ -29,7 +29,7 @@ Create a compelling story's first act through visual inspiration and AI collabor
     - Feasibility for development
   - Choose one concept to develop further
 
-# Phase 2: Collaborative World-Building
+## Phase 2: Collaborative World-Building
 **Duration**: 45-60 minutes
 
 Goal: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
