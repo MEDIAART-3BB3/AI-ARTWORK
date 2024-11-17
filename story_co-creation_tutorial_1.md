@@ -5,7 +5,7 @@ Create a compelling first act of a story through visual inspiration and AI colla
 
 ### Phase 1: Visual Inspiration & Initial Ideas (20 mins)
 1. **Prepare Visual Prompts**
-   - Select 3-4 diverse images that contain:
+   - Select 3-4 diverse images that contain some of the following:
      - Interesting characters or figures
      - Unique environments or settings
      - Memorable objects or artifacts
