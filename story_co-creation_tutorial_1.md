@@ -43,18 +43,35 @@ Goals: Establish the foundations of your story, for example, the time/era, the g
     Ask me one question at a time.
     ```
 
-### Phase 3: Design the Inciting Incident (25 mins)
-1. **Create the "What If" Moment**
-   ```
-   What if [element from normal world] suddenly [changes]?
-   How would this force our protagonist to act?
-   ```
+    ## Phase 3: "What If" Exploration
+    **Duration**: 45-60 minutes
 
-2. **Develop the Hook**
-   - Choose one path that:
-     - Disrupts the status quo
-     - Forces a choice
-     - Creates clear stakes
+    1. **Generate Core Question**
+       - Craft a "what if" question that:
+         - Challenges the established world
+         - Creates interesting conflict
+         - Opens multiple possibilities
+       Example template:
+       ```
+       What if [established element] suddenly [changed/disappeared/reversed]?
+       What would happen to [character/group/society]?
+       ```
+
+    2. **Branch Exploration**
+       - Ask ChatGPT to explore 3-4 possible outcomes
+       - For each branch, consider:
+         - Immediate consequences
+         - Long-term implications
+         - Character reactions
+         - Potential subplot opportunities
+
+    3. **Path Selection**
+       - Evaluate each branch based on:
+         - Narrative potential
+         - Thematic resonance
+         - Character development opportunities
+         - Personal interest
+       - Choose one path to develop into your main storyline
 
 3. **Structure Act 1**
    - Opening scene in normal world
