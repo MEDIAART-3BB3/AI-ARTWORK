@@ -1,7 +1,9 @@
 # Co-Creating Act 1 with ChatGPT
 
-### Workshop Goal
+### Workshop Goals:
 Create a compelling story's first act through visual inspiration and AI collaboration.
+### Expected Outcome: 
+By the end, you should have a clear starting situation, a defined protagonist, and a compelling inciting incident.
 
 ## Phase 1: Visual Inspiration & Initial Ideas (20 mins)
 1. **Prepare Visual Prompts**
@@ -66,20 +68,14 @@ Goal: Explore possible story beginnings and events in your story.
    - Personal interest
  - Choose one path to develop into your main storyline
 
-3. **Structure Act 1**
-   - Opening scene in the normal world
-   - Build to inciting incident
-   - End with the protagonist's first major decision
+## Phase 4: Generate Act 1
 
-### Expected Outcome
-By the workshop end, you should have:
-- A clear starting situation
-- A defined protagonist
-- A compelling inciting incident
-- Setup for Act 2
+  - Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
+    
+    ```
+    I choose the "what if" path [replace with your path number].
+    Please generate a draft of Act 1 to see how the story is coming together.
+    The act structure should start with an opening scene in the story's setting and end with the
+    protagonist's first major decision.
+    ```
 
-### Quick Tips
-- Keep your protagonist active, not passive
-- Make the stakes personal
-- Create clear cause-and-effect
-- End Act 1 with a decision that can't be undone
