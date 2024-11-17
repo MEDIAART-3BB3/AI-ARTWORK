@@ -32,13 +32,13 @@ Create a compelling story's first act through visual inspiration and AI collabor
 # Phase 2: Collaborative World-Building
 **Duration**: 45-60 minutes
 
-Goals: In this step, you will establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
+Goals: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
 
 1. **Iterative Development**
 
   - Use the following prompt template to tell ChatGPT which concept you selected and engage in a Q&A session with ChatGPT:
     ```
-    I select the story concept [replace with your concept number].
+    I choose the story concept [replace with your concept number].
     Please ask me 3-4 specific questions to help you create the story's setting.
     Ask me one question at a time.
     ```
