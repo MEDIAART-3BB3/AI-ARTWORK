@@ -32,7 +32,7 @@ Create a compelling story's first act through visual inspiration and AI collabor
 # Phase 2: Collaborative World-Building
 **Duration**: 45-60 minutes
 
-Goals: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
+Goal: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
 
 1. **Iterative Development**
 
@@ -43,43 +43,36 @@ Goals: Establish the foundations of your story, for example, the time/era, the g
     Ask me one question at a time.
     ```
 
-    ## Phase 3: "What If" Exploration
-    **Duration**: 45-60 minutes
+## Phase 3: "What If" Exploration
 
-    1. **Generate Core Question**
-       - Craft a "what if" question that:
-         - Challenges the established world
-         - Creates interesting conflict
-         - Opens multiple possibilities
-       Example template:
-       ```
-       What if [established element] suddenly [changed/disappeared/reversed]?
-       What would happen to [character/group/society]?
-       ```
+Goal: Explore possible story beginnings and events in your story.
+ 
+1. **Branch Exploration**
+ - Ask ChatGPT to explore 3-4 possible story beginnings:
 
-    2. **Branch Exploration**
-       - Ask ChatGPT to explore 3-4 possible outcomes
-       - For each branch, consider:
-         - Immediate consequences
-         - Long-term implications
-         - Character reactions
-         - Potential subplot opportunities
+ ```
+  Please, suggest 3-4 possible story beginnings. For each suggestion, please include:
+ - Immediate consequences
+   - Long-term implications
+   - Character reactions
+   - Potential subplot opportunities
+  ```
 
-    3. **Path Selection**
-       - Evaluate each branch based on:
-         - Narrative potential
-         - Thematic resonance
-         - Character development opportunities
-         - Personal interest
-       - Choose one path to develop into your main storyline
+2. **Path Selection**
+ - Evaluate each branch based on:
+   - Narrative potential
+   - Thematic resonance
+   - Character development opportunities
+   - Personal interest
+ - Choose one path to develop into your main storyline
 
 3. **Structure Act 1**
-   - Opening scene in normal world
+   - Opening scene in the normal world
    - Build to inciting incident
-   - End with protagonist's first major decision
+   - End with the protagonist's first major decision
 
 ### Expected Outcome
-By workshop end, you should have:
+By the workshop end, you should have:
 - A clear starting situation
 - A defined protagonist
 - A compelling inciting incident
