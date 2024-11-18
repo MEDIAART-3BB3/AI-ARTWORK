@@ -9,10 +9,10 @@
 Goal: Inspire ChatGPT through photos taken by you to create an initial story concept.
 
 1. **Prepare Visual Prompts**
-   - Select 3-4 diverse images that contain:
-     - Memorable objects or artifacts
-     - Unique environments or settings
-     - Distinct mood or atmosphere
+- Select 3-4 diverse images that contain:
+  - Memorable objects or artifacts
+  - Unique environments or settings
+  - Distinct mood or atmosphere
 
 2. **Generate Story Seeds**
 - Share your images with ChatGPT using this prompt template:
@@ -27,10 +27,12 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
   ```
 
 3. **Review**
-  - Evaluate each proposal based on:
-    - Personal connection to the concept
-    - Creative potential
-    - Feasibility for development
+- Evaluate each proposal based on:
+ - Personal connection to the concept
+ - Creative potential
+ - Feasibility for development
+- Choose one concept to develop in the next step
+
 
 ## Phase 2: Collaborative World-Building (15 min)
 
@@ -38,7 +40,8 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 1. **Iterative Development**
 
-  - Use the following prompt template to tell ChatGPT which concept you liked and engage in a Q&A session with ChatGPT to develop the story's setting:
+  - Use the prompt template below to tell ChatGPT which concept you chose.
+  - Engage in a Q&A session with ChatGPT to develop the story's setting:
     
     ```
     I choose the story concept [replace with your concept number].
