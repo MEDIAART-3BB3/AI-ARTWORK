@@ -2,10 +2,9 @@
 
 ### Workshop Goals:
 Create a compelling story's first act through visual inspiration and AI collaboration.
-### Expected Outcome: 
 By the end, you should have a clear starting situation, a defined protagonist, and a compelling inciting incident.
 
-## Phase 1: Visual Inspiration & Initial Ideas (20 mins)
+## Phase 1: Visual Inspiration & Initial Ideas (15 mins)
 1. **Prepare Visual Prompts**
    - Select 3-4 diverse images that contain:
      - Interesting characters or figures
@@ -29,10 +28,9 @@ By the end, you should have a clear starting situation, a defined protagonist, a
     - Personal connection to the concept
     - Creative potential
     - Feasibility for development
-  - Choose one concept to develop further
+  - Choose one concept to develop further but do not tell ChatGPT yet
 
-## Phase 2: Collaborative World-Building
-**Duration**: 45-60 minutes
+## Phase 2: Collaborative World-Building (15 min)
 
 Goal: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
 
@@ -45,7 +43,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
     Ask me one question at a time.
     ```
 
-## Phase 3: "What If" Exploration
+## Phase 3: "What If" Exploration (15 min)
 
 Goal: Explore possible story beginnings and events in your story.
  
@@ -68,7 +66,7 @@ Goal: Explore possible story beginnings and events in your story.
    - Personal interest
  - Choose one path to develop into your main storyline
 
-## Phase 4: Generate Act 1
+## Phase 4: Generate Act 1 (10 min)
 
   - Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
     
