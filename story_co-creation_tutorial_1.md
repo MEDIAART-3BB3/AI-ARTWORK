@@ -28,9 +28,9 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
 
 3. **Review**
 - Evaluate each proposal based on:
- - Personal connection to the concept
- - Creative potential
- - Feasibility for development
+  - Personal connection to the concept
+  - Creative potential
+  - Feasibility for development
 - Choose one concept to develop in the next step
 
 
