@@ -40,8 +40,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 1. **Iterative Development**
 
-  - Use the prompt template below to tell ChatGPT which concept you chose.
-  - Engage in a Q&A session with ChatGPT to develop the story's setting:
+  - Use the prompt template below to tell ChatGPT which concept you chose. Engage in a Q&A session with ChatGPT to develop the story's setting:
     
     ```
     I choose the story concept [replace with your concept number].
@@ -74,7 +73,7 @@ Goal: Explore possible story beginnings and events in your story.
 
 ## Phase 4: Generate Act 1 (10 min)
 
-  - Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
+1. Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
     
     ```
     I choose the "what if" path [replace with your path number].
