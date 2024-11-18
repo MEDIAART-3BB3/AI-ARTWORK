@@ -5,6 +5,9 @@
 - By the end, you should have a clear starting situation, a defined protagonist, and a compelling inciting incident.
 
 ## Phase 1: Visual Inspiration & Initial Ideas (15 mins)
+
+Goal: Inspire ChatGPT through photos taken by you to create an initial story concept.
+
 1. **Prepare Visual Prompts**
    - Select 3-4 diverse images that contain:
      - Memorable objects or artifacts
@@ -23,12 +26,11 @@
   - The main conflict or challenge
   ```
 
-3. **Review and Select**
+3. **Review**
   - Evaluate each proposal based on:
     - Personal connection to the concept
     - Creative potential
     - Feasibility for development
-  - Choose one concept to develop further but do not tell ChatGPT yet
 
 ## Phase 2: Collaborative World-Building (15 min)
 
@@ -36,7 +38,8 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 1. **Iterative Development**
 
-  - Use the following prompt template to tell ChatGPT which concept you selected and engage in a Q&A session with ChatGPT:
+  - Use the following prompt template to tell ChatGPT which concept you liked and engage in a Q&A session with ChatGPT to develop the story's setting:
+    
     ```
     I choose the story concept [replace with your concept number].
     Please ask me 3-4 specific questions to help you create the story's setting.
