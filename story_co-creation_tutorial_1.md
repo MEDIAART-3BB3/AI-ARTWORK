@@ -1,8 +1,8 @@
 # Co-Creating Act 1 with ChatGPT
 
-### Workshop Goals:
-Create a compelling story's first act through visual inspiration and AI collaboration.
-By the end, you should have a clear starting situation, a defined protagonist, and a compelling inciting incident.
+### Workshop Goals: 
+- Create a compelling story's first act through visual inspiration and AI collaboration.
+- By the end, you should have a clear starting situation, a defined protagonist, and a compelling inciting incident.
 
 ## Phase 1: Visual Inspiration & Initial Ideas (15 mins)
 1. **Prepare Visual Prompts**
