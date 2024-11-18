@@ -7,9 +7,8 @@
 ## Phase 1: Visual Inspiration & Initial Ideas (15 mins)
 1. **Prepare Visual Prompts**
    - Select 3-4 diverse images that contain:
-     - Interesting characters or figures
-     - Unique environments or settings
      - Memorable objects or artifacts
+     - Unique environments or settings
      - Distinct mood or atmosphere
 
 2. **Generate Story Seeds**
