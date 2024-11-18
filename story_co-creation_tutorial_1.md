@@ -26,7 +26,7 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
   - The main conflict or challenge
   ```
 
-3. **Review**
+3. **Concept Selection**
 - Evaluate each proposal based on:
   - Personal connection to the concept
   - Creative potential
