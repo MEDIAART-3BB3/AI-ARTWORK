@@ -46,7 +46,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
     Ask me one question at a time.
     ```
 
-## Phase 3: "What If" Exploration (15 min)
+## Phase 3: "What If" Exploration To Find a Story Beginning (15 min)
 
 Goal: Explore possible story beginnings and events in your story.
  
