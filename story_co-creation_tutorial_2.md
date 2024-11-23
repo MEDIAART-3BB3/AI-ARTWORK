@@ -2,9 +2,9 @@
 
 ### Workshop Goals:
 - Develop complex character arcs and relationships for your story's second act
-- By the end, you should have well-defined character motivations, conflicts, and growth opportunities that drive the middle portion of your story
+- By the end, you should have a story's 2nd Act based on well-defined character motivations, conflicts, and growth opportunities that drive the middle portion of your story
 
-## Phase 1: Character State Analysis (15 mins)
+## Phase 1: Character State Analysis (10 mins)
 
 Goal: Analyze where your characters are emotionally and physically after Act 1's events.
 
@@ -30,7 +30,7 @@ Please help me understand how Act 1's events affected the supporting characters:
 - What secrets or conflicts might emerge in Act 2?
 ```
 
-## Phase 2: Relationship Dynamics (15 mins)
+## Phase 2: Relationship Dynamics (10 mins)
 
 Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts and development.
 
@@ -52,7 +52,7 @@ Based on where the characters are now, suggest 3-4 potential relationship develo
   - Thematic relevance
   - Emotional resonance
 
-## Phase 3: Character Challenges & Growth (15 mins)
+## Phase 3: Character Challenges & Growth (10 mins)
 
 Goal: Design meaningful obstacles that force character development.
 
@@ -92,11 +92,3 @@ Based on our character development work, please generate a draft of Act 2 that s
 Write it in prose, focusing on character interactions and internal struggles.
 ```
 
-### Tips for Maximum Effectiveness:
-- Encourage students to be specific about emotional states and relationships
-- Remind them that Act 2 is about complications and increasing stakes
-- Focus on how external conflicts reveal character
-- Look for opportunities to connect character growth to the main theme
-- Consider how each character development choice impacts the story's conclusion
-
-Remember: The best character development comes from putting characters in situations that force them to confront their fears, question their beliefs, or make difficult choices that reveal their true nature.
