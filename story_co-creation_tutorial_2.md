@@ -78,7 +78,7 @@ For the selected challenge, please help me map out:
 - How does this advance the overall story?
 ```
 
-## Phase 4: Generate Act 2 Character Arcs (10 mins)
+## Phase 4: Generate Act 2 (10 mins)
 
 1. **Arc Development**
 - Use this prompt to create your character-driven second act:
