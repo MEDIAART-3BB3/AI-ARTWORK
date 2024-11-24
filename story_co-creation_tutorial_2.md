@@ -17,11 +17,10 @@ Goal: Remember what were your Act 1's events.
         Can you start by providing me a summary of the events of my Act 1.
         
 
-## Phase 2: Character State Analysis (10 mins)
+## Phase 2: Main Character Development (10 mins)
 
 Goal: Analyze where your characters are emotionally and physically after Act 1's events. 
 
-1. **Character Status Assessment**
 - Have an interactive dialogue where ChatGPT takes the lead in character development through targeted questions. Use this prompt to begin an interactive protagonist analysis:
 
         
@@ -32,8 +31,12 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
         4. Summarize what we learn after every few questions
         5. Help me identify patterns or contradictions in my character's behavior
         
+          
+## Phase 3: Supporting Cast Development (10 mins)
 
-2. **Supporting Cast Development**
+Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts and development.
+
+1. **Supporting Cast Development**
 - Use this prompt to start an interactive character exploration:
 
         
@@ -44,12 +47,8 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
         3. Focus on relationships, motivations, and potential conflicts
         4. If you notice interesting character development opportunities in my answers, explore those further
         5. After the last question, summarize what we've learned before asking the next question
-          
-## Phase 3: Relationship Dynamics (10 mins)
 
-Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts and development.
-
-1. **Relationship Mapping**
+2. **Relationship Mapping**
 - Generate potential character interactions using this prompt:
 
         ```
@@ -60,40 +59,14 @@ Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts
         - Unexpected collaborations
         ```
 
-2. **Dynamic Selection**
+3. **Dynamic Selection**
 - Evaluate each suggestion based on:
   - Impact on the main plot
   - Character growth potential
   - Thematic relevance
   - Emotional resonance
 
-## Phase 4: Character Challenges & Growth (10 mins)
-
-Goal: Design meaningful obstacles that force character development.
-
-1. **Challenge Generation**
-- Use this prompt to explore character-testing scenarios:
-        
-        ```
-        Please suggest 3-4 challenges that will test and transform my protagonist in Act 2:
-        - Internal struggles
-        - External obstacles
-        - Relationship tests
-        - Moral dilemmas
-        ```
-
-2. **Growth Planning**
-- For your chosen challenges, explore the impact:
-
-        ```
-        For the selected challenge, please help me map out:
-        - How does this challenge push the character out of their comfort zone?
-        - What skills or wisdom must they develop to overcome it?
-        - What sacrifices might be required?
-        - How does this advance the overall story?
-        ```
-
-## Phase 5: Generate Act 2 (10 mins)
+## Phase 4: Generate Act 2 (10 mins)
 
 1. **Arc Development**
 - Use this prompt to create your character-driven second act:
