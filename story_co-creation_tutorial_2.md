@@ -11,11 +11,11 @@ Goal: Remember what were your Act 1's events.
 1. **Provide the document containing your Act 1 and Request a Summary from ChatGPT**
 - Upload your document containing your Act 1 to ChatGPT and use the following template prompt to request a summary of your story.
 
-```
-Hi! The attached file is a story's 1st act that I co-created with you.
-Today, I want to develop the 2nd act with your help.
-Can you start by providing me a summary of the events of my Act 1.
-```
+        ```
+        Hi! The attached file is a story's 1st act that I co-created with you.
+        Today, I want to develop the 2nd act with your help.
+        Can you start by providing me a summary of the events of my Act 1.
+        ```
 
 ## Phase 2: Act 1 Summary and Character State Analysis (10 mins)
 
@@ -26,22 +26,25 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
 
         ```
         I'd like you to help me analyze my protagonist after Act 1's events through guided questions. Please:
-        1. Ask me focused questions about my protagonist one at a time
-        2. Build each question on my previous answer
-        3. Look for emotional depth and psychological insights
-        4. Summarize what we learn after every few questions
-        5. Help me identify patterns or contradictions in my character's behavior
+                1. Ask me focused questions about my protagonist one at a time
+                2. Build each question on my previous answer
+                3. Look for emotional depth and psychological insights
+                4. Summarize what we learn after every few questions
+                5. Help me identify patterns or contradictions in my character's behavior
         ```
 
 2. **Supporting Cast Development**
-- Use this prompt to explore how other characters were impacted:
+- Use this prompt to start an interactive character exploration:
 
-        ```
-        Please help me understand how Act 1's events affected the supporting characters:
-        - How has each character's relationship with the protagonist changed?
-        - What are their current goals or motivations?
-        - What secrets or conflicts might emerge in Act 2?
-        ```
+  ```
+     Based on Act 1, I'd like you to help me develop the supporting characters through questions.
+        Please:
+        1. Ask me between 5-7 questions, one at a time, about each supporting character
+        2. Use my answers to generate follow-up questions
+        3. Focus on relationships, motivations, and potential conflicts
+        4. If you notice interesting character development opportunities in my answers, explore those further
+        5. After the last question, summarize what we've learned before asking the next question
+   ```
 
 ## Phase 3: Relationship Dynamics (10 mins)
 
