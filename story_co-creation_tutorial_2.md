@@ -4,11 +4,10 @@
 - Develop complex character arcs and relationships for your story's second act
 - By the end, you should have a story's 2nd Act based on well-defined character motivations, conflicts, and growth opportunities that drive the middle portion of your story
 
-## Phase 1: Act 1 Recap (10 mins)
+## Phase 1: Remember what were your Act 1's events (10 mins)
 
 Goal: Remember what were your Act 1's events.
 
-1. **Provide the document containing your Act 1 and Request a Summary from ChatGPT**
 - Upload your document containing your Act 1 to ChatGPT and use the following template prompt to request a summary of your story.
 
         
