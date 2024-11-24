@@ -12,7 +12,8 @@ Goal: Remember what were your Act 1's events.
 - Upload your document containing your Act 1 to ChatGPT and use the following template prompt to request a summary of your story.
 
 ```
-Hi! The attached file is a story's 1st act that I co-created with you. Today, I want to develop the 2nd act with your help. Can you start by providing me a summary of the events of my Act 1.
+Hi! The attached file is a story's 1st act that I co-created with you. Today, I want to develop the 2nd act with your help.
+Can you start by providing me a summary of the events of my Act 1.
 ```
 
 ## Phase 2: Act 1 Summary and Character State Analysis (10 mins)
