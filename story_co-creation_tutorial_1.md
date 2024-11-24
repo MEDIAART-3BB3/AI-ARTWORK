@@ -14,9 +14,9 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
   - Unique environments or settings
   - Distinct mood or atmosphere
 
+
 2. **Generate Story Seeds**
-- Share your images with ChatGPT using this prompt template:
-  
+- Share your images with ChatGPT using this prompt template: 
   
       I want to create a story inspired by these images. Based on the elements in each image,
       can you propose 3-5 different story concepts?
@@ -25,7 +25,7 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
       - A brief premise (2-3 sentences)
       - The main conflict or challenge
 
-      
+
 3. **Concept Selection**
 - Evaluate each proposal based on:
   - Personal connection to the concept
@@ -40,7 +40,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 1. **Iterative Development**
 
-  - Use the prompt template below to tell ChatGPT which concept you chose. Engage in a Q&A session with ChatGPT to develop the story's setting:   
+- Use the prompt template below to tell ChatGPT which concept you chose. Engage in a Q&A session with ChatGPT to develop the story's setting:   
 
         I choose the story concept [replace with your concept number].
         Please ask me 3-4 specific questions to help you create the story's setting.
