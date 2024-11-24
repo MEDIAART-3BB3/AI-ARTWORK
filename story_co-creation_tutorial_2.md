@@ -33,7 +33,7 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
           
 ## Phase 3: Supporting Cast Development (10 mins)
 
-Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts and development.
+Goal: Develop secondary characters to add depth to your story.
 
 1. **Supporting Cast Development**
 - Use this prompt to start an interactive exploration of secondary characters:
@@ -48,7 +48,7 @@ Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts
 
 ## Phase 4: Generate Act 2 (10 mins)
 
-- Use this prompt to create your character-driven second ct:
+- Use this prompt to create your character-driven second act:
 
         Based on our character development work, please generate a draft of Act 2 that shows:
         - How the protagonist struggles with and gradually confronts their main challenge
