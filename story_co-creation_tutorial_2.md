@@ -38,13 +38,13 @@ Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts
 1. **Supporting Cast Development**
 - Use this prompt to start an interactive exploration of secondary characters:
 
-        Now I'd like you to help me develop the supporting characters through a Q&A session.Please:
-        1. List the potential supporting characters and ask me to choose which ones I would like to focus on
-        2. Ask 3-4 questions about each supporting character I selected
-        2. Ask one question at a time and use my answers to generate follow-up questions
-        3. Focus on relationships, motivations, and potential conflicts
-        4. If you notice interesting character development opportunities in my answers, explore those further with 1-2 follow-up questions or suggestions
-        5. After the last question, summarize what we've learned before asking the next question
+          Now I'd like you to help me develop the supporting characters through a Q&A session.Please:
+          1. List the potential supporting characters and ask me to choose which ones I would like to focus on
+          2. Ask 3-4 questions about each supporting character I selected
+          2. Ask one question at a time and use my answers to generate follow-up questions
+          3. Focus on relationships, motivations, and potential conflicts
+          4. If you notice interesting character development opportunities in my answers, explore those further with 1-2 follow-up questions or suggestions
+          5. After the last question, summarize what we've learned before asking the next question
 
 ## Phase 4: Generate Act 2 (10 mins)
 
