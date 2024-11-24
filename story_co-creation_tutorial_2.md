@@ -4,7 +4,18 @@
 - Develop complex character arcs and relationships for your story's second act
 - By the end, you should have a story's 2nd Act based on well-defined character motivations, conflicts, and growth opportunities that drive the middle portion of your story
 
-## Phase 1: Character State Analysis (10 mins)
+## Phase 1: Act 1 Recap (10 mins)
+
+Goal: Remember what were your Act 1's events.
+
+1. **Provide the document containing your Act 1 and Request a Summary from ChatGPT**
+- Upload your document containing your Act 1 to ChatGPT and use the following template prompt to request a summary of your story.
+
+```
+Hi! The attached file is a story's 1st act that I co-created with you. Today, I want to develop the 2nd act with your help. Can you start by providing me a summary of the events of my Act 1.
+```
+
+## Phase 2: Act 1 Summary and Character State Analysis (10 mins)
 
 Goal: Analyze where your characters are emotionally and physically after Act 1's events.
 
@@ -14,8 +25,6 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
         ```
         Based on Act 1's events, help me analyze my protagonist's current state:
         - Emotional state and mindset
-        - Key relationships affected by Act 1
-        - Resources and allies available
         - Primary fears and desires
         - Immediate challenges ahead
         ```
@@ -30,7 +39,7 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
         - What secrets or conflicts might emerge in Act 2?
         ```
 
-## Phase 2: Relationship Dynamics (10 mins)
+## Phase 3: Relationship Dynamics (10 mins)
 
 Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts and development.
 
@@ -52,7 +61,7 @@ Goal: Create compelling interpersonal dynamics that will drive Act 2's conflicts
   - Thematic relevance
   - Emotional resonance
 
-## Phase 3: Character Challenges & Growth (10 mins)
+## Phase 4: Character Challenges & Growth (10 mins)
 
 Goal: Design meaningful obstacles that force character development.
 
@@ -78,7 +87,7 @@ Goal: Design meaningful obstacles that force character development.
         - How does this advance the overall story?
         ```
 
-## Phase 4: Generate Act 2 (10 mins)
+## Phase 5: Generate Act 2 (10 mins)
 
 1. **Arc Development**
 - Use this prompt to create your character-driven second act:
