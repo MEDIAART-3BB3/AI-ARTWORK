@@ -11,23 +11,26 @@ Goal: Remember what were your Act 1's events.
 1. **Provide the document containing your Act 1 and Request a Summary from ChatGPT**
 - Upload your document containing your Act 1 to ChatGPT and use the following template prompt to request a summary of your story.
 
-```
-Hi! The attached file is a story's 1st act that I co-created with you. Today, I want to develop the 2nd act with your help.
-Can you start by providing me a summary of the events of my Act 1.
-```
+        ```
+        Hi! The attached file is a story's 1st act that I co-created with you.
+        Today, I want to develop the 2nd act with your help.
+        Can you start by providing me a summary of the events of my Act 1.
+        ```
 
 ## Phase 2: Act 1 Summary and Character State Analysis (10 mins)
 
 Goal: Analyze where your characters are emotionally and physically after Act 1's events.
 
 1. **Character Status Assessment**
-- Review your protagonist's current state using this prompt template:
+- Use this prompt to begin an interactive protagonist analysis:
 
         ```
-        Based on Act 1's events, help me analyze my protagonist's current state:
-        - Emotional state and mindset
-        - Primary fears and desires
-        - Immediate challenges ahead
+        I'd like you to help me analyze my protagonist after Act 1's events through guided questions. Please:
+        1. Ask me focused questions about my protagonist one at a time
+        2. Build each question on my previous answer
+        3. Look for emotional depth and psychological insights
+        4. Summarize what we learn after every few questions
+        5. Help me identify patterns or contradictions in my character's behavior
         ```
 
 2. **Supporting Cast Development**
