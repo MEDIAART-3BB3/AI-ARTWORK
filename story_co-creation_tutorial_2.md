@@ -17,12 +17,12 @@ Goal: Remember what were your Act 1's events.
         Can you start by providing me a summary of the events of my Act 1.
         
 
-## Phase 2: Act 1 Summary and Character State Analysis (10 mins)
+## Phase 2: Character State Analysis (10 mins)
 
-Goal: Analyze where your characters are emotionally and physically after Act 1's events.
+Goal: Analyze where your characters are emotionally and physically after Act 1's events. 
 
 1. **Character Status Assessment**
-- Use this prompt to begin an interactive protagonist analysis:
+- Have an interactive dialogue where ChatGPT takes the lead in character development through targeted questions. Use this prompt to begin an interactive protagonist analysis:
 
         
         I'd like you to help me analyze my protagonist after Act 1's events through guided questions. Please:
