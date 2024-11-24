@@ -20,7 +20,7 @@ Goal: Remember what were your Act 1's events.
 
 Goal: Analyze where your characters are emotionally and physically after Act 1's events. 
 
-- Have an interactive dialogue where ChatGPT takes the lead in character development through targeted questions. Use this prompt to begin an interactive protagonist analysis:
+- Have an interactive dialogue where ChatGPT takes the lead in the development of your main character. Use this prompt to begin an interactive protagonist analysis and development:
 
         
         I'd like you to help me analyze my protagonist after Act 1's events through guided questions. Please:
