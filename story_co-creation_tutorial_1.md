@@ -16,8 +16,9 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
 
 
 2. **Generate Story Seeds**
-- Share your images with ChatGPT using this prompt template: 
-
+   
+- Share your images with ChatGPT using this prompt template:
+  
       I want to create a story inspired by these images. Based on the elements in each image,
       can you propose 3-5 different story concepts?
       For each concept, please include:
