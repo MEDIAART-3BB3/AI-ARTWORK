@@ -8,13 +8,13 @@
 
 Goal: Inspire ChatGPT through photos taken by you to create an initial story concept.
 
-1. **Prepare Visual Prompts**
+**Prepare Visual Prompts**
 - Select 3-4 diverse images that contain:
 - Memorable objects or artifacts
 - Unique environments or settings
 - Distinct mood or atmosphere
 
-2. **Generate Story Seeds**
+**Generate Story Seeds**
    
 - Share your images with ChatGPT using this prompt template:
   
@@ -26,7 +26,7 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
       - The main conflict or challenge
 
 
-3. **Concept Selection**
+**Concept Selection**
 - Evaluate each proposal based on:
 - Personal connection to the concept
 - Creative potential
@@ -38,7 +38,7 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
 
 Goal: Establish the foundations of your story, for example, the time/era, the geographic location, the social/cultural context, and the key rules or limitations of the world.
 
-1. **Iterative Development**
+**Iterative Development**
 
 - Use the prompt template below to tell ChatGPT which concept you chose. Engage in a Q&A session with ChatGPT to develop the story's setting:   
 
@@ -51,7 +51,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 Goal: Explore possible story beginnings and events in your story.
 
-1. **Branch Exploration**
+**Branch Exploration**
    
 - Ask ChatGPT to explore 3-4 possible story beginnings:
   
@@ -61,7 +61,7 @@ Goal: Explore possible story beginnings and events in your story.
       - Character reactions
       - Potential subplot opportunities
 
-2. **Path Selection**
+**Path Selection**
 - Evaluate each branch based on:
 - Narrative potential
 - Thematic resonance
@@ -71,7 +71,7 @@ Goal: Explore possible story beginnings and events in your story.
 
 ## Phase 4: Generate Act 1 (10 min)
 
-1. Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
+- Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
 
         I choose the "what if" path [replace with your path number].
         Please generate a draft of Act 1 to see how the story is coming together.
