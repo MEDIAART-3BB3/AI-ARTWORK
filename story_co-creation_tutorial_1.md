@@ -13,8 +13,8 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
   - Memorable objects or artifacts
   - Unique environments or settings
   - Distinct mood or atmosphere
-
-
+ 
+skdaksll
 2. **Generate Story Seeds**
 - Share your images with ChatGPT using this prompt template: 
   
