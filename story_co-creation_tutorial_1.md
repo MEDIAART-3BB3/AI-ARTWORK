@@ -10,27 +10,27 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
 
 1. **Prepare Visual Prompts**
 - Select 3-4 diverse images that contain:
-  - Memorable objects or artifacts
-  - Unique environments or settings
-  - Distinct mood or atmosphere
- 
-skdaksll
+- Memorable objects or artifacts
+- Unique environments or settings
+- Distinct mood or atmosphere
+
+
 2. **Generate Story Seeds**
 - Share your images with ChatGPT using this prompt template: 
-  
-I want to create a story inspired by these images. Based on the elements in each image,
-can you propose 3-5 different story concepts?
-For each concept, please include:
-- A working title
-- A brief premise (2-3 sentences)
-- The main conflict or challenge
+
+      I want to create a story inspired by these images. Based on the elements in each image,
+      can you propose 3-5 different story concepts?
+      For each concept, please include:
+      - A working title
+      - A brief premise (2-3 sentences)
+      - The main conflict or challenge
 
 
 3. **Concept Selection**
 - Evaluate each proposal based on:
-  - Personal connection to the concept
-  - Creative potential
-  - Feasibility for development
+- Personal connection to the concept
+- Creative potential
+- Feasibility for development
 - Choose one concept to develop in the next step
 
 
@@ -42,42 +42,40 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 
 - Use the prompt template below to tell ChatGPT which concept you chose. Engage in a Q&A session with ChatGPT to develop the story's setting:   
 
-        I choose the story concept [replace with your concept number].
-        Please ask me 3-4 specific questions to help you create the story's setting.
-        Ask me one question at a time.
+      I choose the story concept [replace with your concept number].
+      Please ask me 3-4 specific questions to help you create the story's setting.
+      Ask me one question at a time.
 
 
 ## Phase 3: "What If" Exploration To Find The Story's Beginning (15 min)
 
 Goal: Explore possible story beginnings and events in your story.
- 
-1. **Branch Exploration**
- - Ask ChatGPT to explore 3-4 possible story beginnings:
-        
-Please, suggest 3-4 possible story beginnings. For each suggestion, please include:
-- Immediate consequences
-- Long-term implications
-- Character reactions
-- Potential subplot opportunities
 
+1. **Branch Exploration**
+- Ask ChatGPT to explore 3-4 possible story beginnings:
+  
+      Please, suggest 3-4 possible story beginnings. For each suggestion, please include:
+      - Immediate consequences
+      - Long-term implications
+      - Character reactions
+      - Potential subplot opportunities
 
 2. **Path Selection**
- - Evaluate each branch based on:
-   - Narrative potential
-   - Thematic resonance
-   - Character development opportunities
-   - Personal interest
- - Choose one path to develop into your main storyline
+- Evaluate each branch based on:
+- Narrative potential
+- Thematic resonance
+- Character development opportunities
+- Personal interest
+- Choose one path to develop into your main storyline
 
 ## Phase 4: Generate Act 1 (10 min)
 
 1. Use the following prompt template to tell ChatGPT which path you selected and ask to generate a draft of Act 1:
-    
-    
+
         I choose the "what if" path [replace with your path number].
         Please generate a draft of Act 1 to see how the story is coming together.
         The act structure should start with an opening scene in the story's setting and end with the
         protagonist's first major decision.
         Write it in prose.
-    
+
 
