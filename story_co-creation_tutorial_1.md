@@ -14,7 +14,6 @@ Goal: Inspire ChatGPT through photos taken by you to create an initial story con
 - Unique environments or settings
 - Distinct mood or atmosphere
 
-
 2. **Generate Story Seeds**
    
 - Share your images with ChatGPT using this prompt template:
@@ -53,6 +52,7 @@ Goal: Establish the foundations of your story, for example, the time/era, the ge
 Goal: Explore possible story beginnings and events in your story.
 
 1. **Branch Exploration**
+   
 - Ask ChatGPT to explore 3-4 possible story beginnings:
   
       Please, suggest 3-4 possible story beginnings. For each suggestion, please include:
