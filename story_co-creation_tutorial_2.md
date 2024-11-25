@@ -35,7 +35,6 @@ Goal: Analyze where your characters are emotionally and physically after Act 1's
 
 Goal: Develop secondary characters to add depth to your story.
 
-1. **Supporting Cast Development**
 - Use this prompt to start an interactive exploration of secondary characters:
 
           Now I'd like you to help me develop the supporting characters through a Q&A session.Please:
